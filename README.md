@@ -1,5 +1,6 @@
-# CSS学习之font-size
+# CSS学习/字体大小/font-size
 -----------------------------------------------------------------------------------
+
 1、绝对大小：
    关键字：xx-small、x-small、small、medium、large、x-large、xx-large；
    数字：12px；web中主要以像素为单位;其他单位pt,inch,mm,pc,cm;
@@ -9,3 +10,16 @@
    百分数：120%；
    数字：1.2em；1em=100%;
 3、具有继承性：以离本元素最亲近的父元素为基准；
+
+-----------------------------------------------------------------------------------
+
+# CSS学习/字体变形/font-variant
+1、具有的value:small-caps、normal、inherit；
+
+-----------------------------------------------------------------------------------
+
+# CSS学习/字体拉伸/font-stretch
+1、具有的value:normal、wider、narrower、ultra-condensed、extra-condensed、condensed、semi-condensed、semi-expand、expand、extra-expand、ultra-expand、inherit；
+2、兼容性问题；
+
+-----------------------------------------------------------------------------------
